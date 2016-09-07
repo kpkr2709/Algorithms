@@ -23,7 +23,7 @@ int main()
    for(i = 0; i < 5; i++){
       cout << "value of vec [" << i << "] = " << vec[i] << endl;
    }
-
+//comments for version
    // use iterator to access the values
    vector<int>::iterator v = vec.begin();
    while( v != vec.end()) {
